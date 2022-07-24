@@ -1,0 +1,5 @@
+# Genesis GX75
+[Device]
+Name=Genesis GX75
+DeviceMatch=usb:05e3:0626
+Driver=hidpp20
